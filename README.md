@@ -7,7 +7,9 @@
 <details>
   <summary>#### My GitHub stats:</summary>
   <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruigomesbioinf)](https://github.com/anuraghazra/github-readme-stats)
+  <p align = "center">
+    <img src = "https://github-readme-stats.vercel.app/api?username=ruigomesbioinf&show_icons=true"/>
+  </p>
 </details>
 
 
