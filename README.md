@@ -13,17 +13,9 @@
 </details>
 
 
-📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
-[![rui's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ruigomesbioinf)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
-
-
-
-
-
-
 
 
 
