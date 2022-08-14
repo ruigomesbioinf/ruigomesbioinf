@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-<a href="https://wakatime.com/@1cecd120-644d-4141-8602-04d698e1ecc2"><img src="https://wakatime.com/badge/user/1cecd120-644d-4141-8602-04d698e1ecc2.svg" alt="Total time coded since Aug 8 2022" /></a>
+
 <!--END_SECTION:waka-->
 
 
