@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-727%20Thousand%20lines%20of%20code-blue)
 
@@ -57,7 +57,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2022 18:52:44 UTC
+ Last Updated on 31/08/2022 18:51:23 UTC
 <!--END_SECTION:waka-->
 
 
