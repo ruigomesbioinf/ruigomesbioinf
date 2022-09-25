@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -39,7 +39,10 @@ Sunday       38 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 11 mins        ██████████████████████░░░   91.01% 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 ```
 
@@ -55,7 +58,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2022 18:53:51 UTC
+ Last Updated on 25/09/2022 18:54:00 UTC
 <!--END_SECTION:waka-->
 
 
