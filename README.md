@@ -71,6 +71,10 @@ TeX                      1 repo              █░░░░░░░░░░�
   </p>
 </details>
 
+### Contribution graph
+
+![snake svg](https://github.com/ruigomesbioinf/ruigomesbioinf/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **ruigomesbioinf/ruigomesbioinf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
