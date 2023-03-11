@@ -10,7 +10,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -53,7 +53,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 18:39:37 UTC
+ Last Updated on 11/03/2023 18:37:51 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
