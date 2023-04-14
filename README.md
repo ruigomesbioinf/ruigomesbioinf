@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2035%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -53,7 +53,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2023 18:37:34 UTC
+ Last Updated on 14/04/2023 18:37:11 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
