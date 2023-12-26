@@ -37,7 +37,8 @@ Sunday                   67 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       19 mins             ████████████████████░░░░░   79.00 % 
+HTML                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -53,7 +54,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2023 18:36:50 UTC
+ Last Updated on 26/12/2023 18:36:48 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
