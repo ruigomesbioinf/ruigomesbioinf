@@ -6,7 +6,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,7 +53,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2024 18:36:35 UTC
+ Last Updated on 31/01/2024 18:36:44 UTC
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
